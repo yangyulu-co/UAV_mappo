@@ -138,3 +138,7 @@ class UE:
             print("the ue don't have a task")
             return False
         self.task = None
+
+    def have_task(self):
+        """返回用户是否有任务，有返回1，无返回0"""
+        return 0 if self.task is None else 0

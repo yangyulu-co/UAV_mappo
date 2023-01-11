@@ -1,8 +1,8 @@
-N_user = 16
+N_user = 1
 """用户数"""
-N_ETUAV = 2
+N_ETUAV = 0
 """ETUAV数量"""
-N_DPUAV = 0
+N_DPUAV = 1
 "DPUAV数量"
 time_slice = 1
 """时隙长度，单位为s"""
